@@ -1,6 +1,6 @@
 {
   "name": "shortcode",
-  "homepage": "httsp://jaydenteo.github.io/url-shortener",
+  "homepage": "https://jaydenteo.github.io/url-shortener",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
